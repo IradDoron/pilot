@@ -15,6 +15,10 @@ export default function Home() {
 			<ul>
 				<li>When you feel thirsty</li>
 			</ul>
+			<p>Notes:</p>
+			<ul>
+				<li>Use only one glass. If you need more water, refill the glass.</li>
+			</ul>
 		</div>
 	);
 }
