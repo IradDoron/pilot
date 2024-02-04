@@ -1,5 +1,29 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+li {
+	margin-inline-start: 20px;
+}
+
+section {
+	margin: 20px auto;
+}
+
+main {
+	padding: 20px;
+}
+
+p span {
+	font-weight: bold;
+}
+
+p {
+	line-height: 1.6rem;
+}
+
+label input[type='checkbox'] {
+	margin-right: 10px;
 }
